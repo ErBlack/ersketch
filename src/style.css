@@ -5,6 +5,7 @@ body {
     color: white;
     background-color: #08131b;
     background-image: url(img/bg.webp);
+    background-size: 256px;
     font-family: 'Helvetica', sans-serif;
     min-width: 256px;
     overflow: auto;
